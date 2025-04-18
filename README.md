@@ -2,6 +2,14 @@
 
 **Have conversations with AI using your own cloned voice!** This Python toolkit lets you create, clone, and interact with custom voices while chatting with your local LLMs also doing your tasks as an AI agent, all in Persian.
 
+---
+
+**The dataset link will be here soon.**
+
+**The app demo will be here soon.**
+
+---
+
 ## ✨ Features
 
 ### 🗣️ Revolutionary Voice Conversations In Persian
